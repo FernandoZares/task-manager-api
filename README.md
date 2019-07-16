@@ -1,5 +1,5 @@
 # Task Manager API
-Back-end for a task manager app. This project was created to practice NodeJS.
+Backend for a task manager app. This project was created to practice NodeJS.
 
 <h3>* What I learned from this project:</h3>
 <ul>
